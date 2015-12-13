@@ -16,5 +16,9 @@ Play with the layout [here!](http://www.keyboard-layout-editor.com/##@_backcolor
  - 1N4148 Diodes (x63)
  - Several meters of ~26 AWG cable
  - Acrylic Cement
+ - Super Glue
  - 6mm M3 Machine Screws (x6)
  - M3 Hex Nuts (6mm corner to corner) (x6)
+
+ ## Assembly:
+ ![assembly diagram](https://raw.githubusercontent.com/naschorr/sixty-three/master/sixty-three-diagram.png)
