@@ -24,4 +24,4 @@ Play with the layout [here!](http://www.keyboard-layout-editor.com/##@_backcolor
 
 
  ## Assembly:
- ![assembly diagram](https://raw.githubusercontent.com/naschorr/sixty-three/master/sixty-three-diagram.png)
+ ![assembly diagram](https://raw.githubusercontent.com/naschorr/sixty-three/master/sixty-three-diagram.png =830x)
