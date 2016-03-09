@@ -2,9 +2,9 @@
 A modified 60% keyboard that doesn't sacrifice the arrow keys.
 
 ## The Keyboard
-![keyboard top 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-top.jpg)
-![keyboard right 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-right.jpg)
-![keyboard left 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-left.jpg)
+![keyboard top 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-top.JPG)
+![keyboard right 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-right.JPG)
+![keyboard left 1](https://raw.githubusercontent.com/naschorr/sixty-three/master/images/sixty-three-left.JPG)
 
 This board was cut from 3mm black acrylic, and uses Rosewill doubleshot key caps.
 
